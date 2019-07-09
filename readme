@@ -1,0 +1,2 @@
+#建表语句
+create database mes117 character set utf8;
